@@ -1,0 +1,1 @@
+taskkill /f /im play2.exe
